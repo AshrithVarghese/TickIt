@@ -50,7 +50,7 @@ Node.js – Server-side JavaScript runtime
 
 ---
 
-🌟 Key Features
+🌟 Key Features:
 
 🔐 JWT-based User Authentication (Login/Register)
 
